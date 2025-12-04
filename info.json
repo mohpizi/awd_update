@@ -1,6 +1,6 @@
 {
   "latest_version": "1.0.5",
-  "download_url": "https://github.com/mohpizi/awd_update/releases/download/v2.1.1/ota.zip",
+  "download_url": "https://github.com/mohpizi/awd_update/releases/download/v2.1.1/tinyfilemanager-2.6.zip",
   "changelog": "- Fitur baru login.\n- Perbaikan bug.",
   "blocked_devices": [
     "USER_NAKAL_01",
@@ -10,4 +10,5 @@
   "force_lock_message": "Aplikasi ini diblokir karena melanggar aturan."
 
 }
+
 
